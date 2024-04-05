@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me...Through the avenues available on GitHub
 - 😄 Pronouns: 
-- ⚡ Fun fact: In my spare time I enjoy Golf and Phtography
+- ⚡ Fun fact: In my spare time I enjoy Golf and Photography
 
 <!---
 vbrunssen/vbrunssen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
