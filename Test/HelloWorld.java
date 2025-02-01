@@ -4,5 +4,6 @@ public class HelloWorld
     {
         System.out.println("HelloWorld!");
         System.out.println("This is an additional string to print");
+        System.out.println("Thius is an additional string");
     }
 }
